@@ -1,0 +1,22 @@
+---
+baseurl: ""
+description: ""
+email: gunslicer@example.com
+encoding: utf-8
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+github_username: gunslicer
+highlighter: rouge
+markdown: kramdown
+plugins:
+  - jekyll-feed
+theme: minima
+title: Github Page Test
+twitter_username: noTwitter
+url: ""
